@@ -1,0 +1,429 @@
+body {
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    background : #212529 ;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.fond{
+  background: #868e96;
+  border-left: 1.25px solid black;
+  border-right: 1.25px solid black;
+}
+
+p{
+  font-size:16.5px;
+}
+
+h1{
+  font-family: georgia;
+  color: #212529;
+  text-align: center;
+}
+
+h4{
+  font-size: 18px;
+  color: #868e96;
+}
+
+.fond2{
+  background: #343a40;
+  border-left: 1.25px solid black;
+  border-right: 1.25px solid black;
+}
+
+/*Bannière*/
+
+.image{
+  width: 100%;
+  border-bottom: 1px #212529 solid;
+  filter: grayscale(80%)
+}
+
+/*Navigation*/
+
+.bg-dark{
+  background-color : #495057 !important;
+  border-bottom: 1px #212529 solid;
+}
+
+.photonav{
+  width: 33%;
+  margin-left:15%;
+}
+
+.navbar-nav{
+  margin-left: 38%;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color: #adb5bd !important;
+}
+
+
+/*Accueil*/
+
+.titre{
+  margin-top : 3%;
+}
+
+.separateur{
+border-top: 1px #212529 solid;
+margin-left: 37.5%;
+width: 25%;
+}
+
+.titre2{
+  margin-bottom: 5%;
+}
+
+.titre8{
+  font-size: 16.5px;
+  margin-bottom: 0.75%;
+}
+
+.carousel{
+  width:40%;
+  margin: auto;
+  margin-bottom: 5%;
+  border: 3px solid #212529;
+}
+
+.soustitre{
+  margin-left:0.75%;
+}
+
+.association{
+  border: 1.5px #212529 solid;
+  margin-left : 8%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  padding-left: 1%;
+  background-color: rgba(173,181,189,0.40);
+}
+
+.asso{
+  width:66%;
+  margin-left: 19%;
+  margin-top:3%;
+  margin-bottom:-11%;
+}
+
+.soustitre2{
+  margin-top: 2%;
+  margin-left:0.75%;
+}
+
+.association2{
+  border: 1.5px #212529 solid;
+  margin-left : 8%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  padding-left: 1%;
+  background-color: rgba(173,181,189,0.40);
+}
+
+.asso2{
+  width:125%;
+  margin-left: 6%;
+  margin-top:12%;
+  margin-bottom:0%;
+}
+
+/*Actualités*/
+
+.association3{
+  border: 1.5px #212529 solid;
+  margin-left : 11%;
+  margin-right: 7%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding-left: 1%;
+  background-color: rgba(173,181,189,0.40);
+}
+
+.soustitre3{
+  margin-top: 1%;
+  margin-left:0.75%;
+}
+
+.titre3{
+  margin-top: 1.5%;
+}
+
+.titre4{
+  font-size: 14px;
+  margin-top:0.5%;
+}
+/*Films*/
+
+.titre8{
+  font-size: 14px;
+  margin-top:0.5%;
+  margin-bottom: 4%;
+}
+
+.soustitre5{
+  font-size:24px;
+  margin-top: 1%;
+  margin-left:0.75%;
+  text-align: center;
+}
+
+.col-md-3.col-sm-12.col-md-offset-1{
+  border: 1.5px #212529 solid;
+  margin-left: 6.1%;
+}
+
+.pfilm{
+  width: 100%;
+}
+
+.prefilm{
+  margin-top:3%;
+}
+
+.desfilm{
+  text-align: justify;
+  margin-top:0.8%;
+  font-size: 14px;
+}
+
+.affichefilm{
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.affichefilm1{
+  text-align: center;
+  margin-top: 2.5%;
+  margin-bottom: -2%;
+}
+
+.btn.btn-dark{
+  margin-top: 1.3%;
+}
+.btn-dark{
+  display: block;
+  margin: auto;
+  margin-top: 1%;
+  border-radius: 5px;
+}
+
+/*Réservation*/
+
+form{
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 3%;
+}
+
+.titre5{
+  margin-top: 2%;
+}
+
+.btn{
+  display: block;
+  margin: auto;
+}
+
+/*Contact*/
+
+.titre6{
+  margin-top: 2%;
+}
+
+.titre7{
+  font-size: 14px;
+  margin-top:0.5%;
+  margin-bottom: 4%;
+}
+
+.parc{
+  text-align: center;
+  border: 1.5px #212529 solid;
+  margin-left:35%;
+  margin-right: 35%;
+  margin-bottom: 4%;
+  padding-top:0.25%;
+  padding-bottom:0.25%;
+}
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.soustitre4{
+  margin-left: 0.75%;
+  margin-top: 4%;
+}
+
+.association4{
+  border: 1.5px #212529 solid;
+  margin-left : 11%;
+  margin-right: 7%;
+  margin-top: 2%;
+  margin-bottom:-0.025%;
+  padding-left: 1%;
+  background-color: rgba(173,181,189,0.40);
+}
+
+/*Footer*/
+
+.insta{
+  width: 15%;
+}
+
+.facebook{
+  width: 15%;
+}
+
+.twitter{
+  width: 15%;
+}
+
+.youtube{
+  width: 15%;
+}
+
+.copyright{
+  width: 3%;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+ .abcd{
+   margin-top: 3%;
+ }
+
+/*Media Accueil*/
+
+@media screen and (max-width: 992px){
+  p{
+    font-size: 14px;
+  }
+
+  h1{
+    font-size: 22px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+
+  h3{
+    font-size:18px;
+  }
+
+  h4{
+    font-size: 16px;
+  }
+
+  h5{
+    font-size: 15px;
+  }
+  .asso{
+    margin-top: 25%;
+  }
+  .asso2{
+    margin-top: 50%;
+  }
+
+}
+
+@media screen and (max-width: 768px){
+  
+  p{
+    font-size: 12px;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+
+  h2{
+    font-size: 18px;
+  }
+
+  h3{
+    font-size:16px;
+  }
+
+  h4{
+    font-size: 14px;
+  }
+
+  h5{
+    font-size: 13px;
+  }
+
+  .asso{
+    display: none;
+  }
+
+  .asso2{
+    display: none;
+  }
+
+  a{
+    font-size: 12px;
+  }
+
+  .insta{
+    width: 8.5%;
+  }
+
+  .facebook{
+    width: 8.5%;
+  }
+
+  .twitter{
+    width: 8.5%;
+  }
+
+  .youtube{
+    width: 8.5%;
+  }
+
+  .pfilm{
+    width: 91%;
+    margin-left: 4.5%;
+  }
+
+  .abcd{
+    margin-top: 1.5%;
+  }
+
+  .reseaux{
+    margin-top: 1.5%
+  }
+
+  .lecontact{
+    margin-top: 1.5%
+  }
+
+  .col-md-3.col-sm-12.col-md-offset-1{
+    border: none;
+    margin-left: 0%;
+  }
+
+  .photonav{
+    display: none;
+  }
+
+  .image{
+    display: none;
+  }
+}
