@@ -1,6 +1,6 @@
 # OpenClassrooms Projet 3
 
-Projet effectué en HTML / CSS ( Bootstrap )
+Projet écrit en HTML / CSS ( Bootstrap )
 
 ### De quoi ça parle ?
 Un projet effectué avec OpenClassrooms. Je devais analyser les besoins d'un client pour son festival de films
