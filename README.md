@@ -13,7 +13,7 @@ Un projet effectué avec OpenClassrooms. Je devais analyser les besoins d'un cli
 This project is working with HTML / CSS (Bootstrap)
 
 ### What is it about ? 
-A project requested by my school. I had to analyze the needs of a client for his film festival
+A project requested by my school. I had to analyze the needs of a client for his movies' festival
 
 ### Project's link : 
 - https://parvacamer.github.io/OpenClassroomsP3/
